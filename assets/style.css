@@ -349,7 +349,7 @@ footer .contact_details {
 
 	#services .container::before{
 		width: 30%;
-		height: 100%;
+		height: calc(100% - 153.6px);
 		bottom: 0;
 		right: 0;
 		left: auto;
