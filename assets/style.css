@@ -259,6 +259,10 @@ input[type="submit"] {
 	padding: .5em 1em
 }
 
+#carouselExampleIndicators .visually-hidden {
+	color: black;
+}
+
 footer {
 	display: grid;
     grid-template-columns: 1fr 1fr;
